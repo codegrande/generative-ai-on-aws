@@ -1,3 +1,4 @@
 transformers==4.27.2
 py7zr
 datasets
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
