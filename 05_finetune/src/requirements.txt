@@ -1,3 +1,4 @@
 transformers==4.27.2
 py7zr
 datasets
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
