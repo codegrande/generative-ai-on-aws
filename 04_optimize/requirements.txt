@@ -7,3 +7,4 @@ torchnet
 transformers==4.21.0
 smdebug
 humanize
+aiohttp>=3.12.14 # not directly required, pinned by Snyk to avoid a vulnerability
