@@ -4,6 +4,7 @@ sagemaker
 sagemaker-experiments
 scipy
 torchnet
-transformers==4.21.0
+transformers==4.53.0
 smdebug
 humanize
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
